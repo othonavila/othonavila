@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @othonavila
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning and AWS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me othon.avila@engenharia.ufjf.br
 
 <!---
