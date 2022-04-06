@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @othonavila
 - 👀 I’m interested in Data Science
-- 📫 How to reach me othon.avila@energisa.com.br
+- 📫 How to reach me othon.avila@reenergisa.com.br
 
 <!---
 othonavila/othonavila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
